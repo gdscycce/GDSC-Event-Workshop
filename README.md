@@ -1,3 +1,3 @@
 # GDSC-Event-Workshop
 
-Your Open Source Contributions Journey Starts here!!
+Your Open Source Contributions journey starts here!!
